@@ -32,7 +32,7 @@ print("\n\n")
 
 
 
-numOfMovies = 0
+numOfMovies = 5
 
 print("We will be comparing " + favMovie +
       " to other movies under the genre [X] in the data set.\n")
